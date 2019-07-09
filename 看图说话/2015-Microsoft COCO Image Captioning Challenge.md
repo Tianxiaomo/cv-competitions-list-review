@@ -1,0 +1,1 @@
+https://competitions.codalab.org/competitions/3221#learn_the_details
